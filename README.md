@@ -1,0 +1,1 @@
+# This is the leetcode Scala Solutions
